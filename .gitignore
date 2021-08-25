@@ -3,7 +3,7 @@
 
 # Compilation output
 /build-test/
-/dist
+#/dist
 
 artifacts/
 cache/
